@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 #nullable disable
 
-namespace ISTTP1
+namespace ISTTPLab1
 {
     public partial class Order
     {

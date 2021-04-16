@@ -7,7 +7,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace ISTTP1
+namespace ISTTPLab1
 {
     public class Program
     {
